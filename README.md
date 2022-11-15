@@ -97,14 +97,18 @@ Equipos de trabajo mas pequeños con un tiempo de desarrollo corto, ejemplo, 2 s
 ### 3. Eventos de Scrum
 * Los artefactos de Scrum representan trabajo o valor en diversas formas que son útiles para proporcionar transparencia y oportunidad para la inspección y adaptación.
 * Son aquellos elementos que definen que quiere el cliente, pero son visibles para todas las personas que trabajan en el proyecto.
-* **Lista del producto (Product Backlog): ** Es una lista ordenada de todo lo que se conoce que es necesario en el producto. (Historias de usuario)
-* **Lista de pendientes del Sprint (Sprint Backlog): ** Elementos de la lista de producto seleccionados para el sprint. (Tablero con las tareas)
+* **Lista del producto (Product Backlog):** Es una lista ordenada de todo lo que se conoce que es necesario en el producto. (Historias de usuario)
+* **Lista de pendientes del Sprint (Sprint Backlog):** Elementos de la lista de producto seleccionados para el sprint. (Tablero con las tareas)
 
 ## SCRUM 
 * responsabilidad de Scrum Master: responsable de aplicar la guia de Scrum en teoria y practica
 * **Sombreros del scrum**
-* **Facilitador : **todas las reuniones del scrum son espacio de decisiones participativas. No se trata de solo de agendarlas
-* **Entrenador : **en etapas tempranas ayuda a entrenar y comprender a su equipo
-* **Mentor : ** Guia a traves de la practica y la experiencia.
-* **Coach : ** Acompaña al equipo scrum a transitar una brecha de aprendizaje hacia a la autogestion y multifuncionalidad
-* **Consultor : **Hace uso de diferentes herramientas que ofrece agilidad para lograr efectividad del Scrum Team
+* **Facilitador :**todas las reuniones del scrum son espacio de decisiones participativas. No se trata de solo de agendarlas
+* **Entrenador :**en etapas tempranas ayuda a entrenar y comprender a su equipo
+* **Mentor :** Guia a traves de la practica y la experiencia.
+* **Coach :** Acompaña al equipo scrum a transitar una brecha de aprendizaje hacia a la autogestion y multifuncionalidad
+* **Consultor :**Hace uso de diferentes herramientas que ofrece agilidad para lograr efectividad del Scrum Team
+
+## Diferencia entre PM y SM
+* Project Manager = Problemas técnicos y líneas
+* Scrum Master = Problemas complejos y adaptativos
