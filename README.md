@@ -101,14 +101,65 @@ Equipos de trabajo mas pequeños con un tiempo de desarrollo corto, ejemplo, 2 s
 * **Lista de pendientes del Sprint (Sprint Backlog):** Elementos de la lista de producto seleccionados para el sprint. (Tablero con las tareas)
 
 ## SCRUM 
+* Es un marco de trabajo no una tecnologia
 * responsabilidad de Scrum Master: responsable de aplicar la guia de Scrum en teoria y practica
 * **Sombreros del scrum**
-* **Facilitador :**todas las reuniones del scrum son espacio de decisiones participativas. No se trata de solo de agendarlas
-* **Entrenador :**en etapas tempranas ayuda a entrenar y comprender a su equipo
+* **Facilitador :** todas las reuniones del scrum son espacio de decisiones participativas. No se trata de solo de agendarlas
+* **Entrenador :** en etapas tempranas ayuda a entrenar y comprender a su equipo
 * **Mentor :** Guia a traves de la practica y la experiencia.
 * **Coach :** Acompaña al equipo scrum a transitar una brecha de aprendizaje hacia a la autogestion y multifuncionalidad
-* **Consultor :**Hace uso de diferentes herramientas que ofrece agilidad para lograr efectividad del Scrum Team
+* **Consultor :** Hace uso de diferentes herramientas que ofrece agilidad para lograr efectividad del Scrum Team
 
 ## Diferencia entre PM y SM
 * Project Manager = Problemas técnicos y líneas
 * Scrum Master = Problemas complejos y adaptativos
+
+## Scrum esta compuesto por 
+* 3 responsabilidades (Scrum Master, Product Owner y Dev Team).
+* 5 eventos (Sprint, Sprint Planning, Daily Scrum, Sprint Review "inspeccion del incremento del producto", Sprint Retrospective)
+* 3 artefactos (Product Backlog, Sprint Backlog, Increment)
+### cada artefacto tiene su compromiso
+* Product Backlog - Compromiso: Objetivo del Producto⁣⁣ - transparente y accesible por todos
+* Sprint Backlog - Compromiso: Objetivo del Sprint⁣⁣
+* Increment - Compromiso: Definición de Terminado⁣ - Se hace transparente lo que se hizo en el spring
+
+### 3 pilares que nos permiten avanzar en el modelo adaptatios de control MAC
+* **Transparencia** : *product backlog-incremento* El product backlog debe ser transparente para todos. 
+* **Inspeccion** : *sprint review* La Sprint Review no se debe presentar con diapositivas, se debe inspeccionar el incremento del producto, el cliente debe interactuar con el producto que se ha llegado a construir en el sprint.
+* **Adaptacion** : *sprint planning* Cuando el cliente interactua con el producto nos puede dar un feedback directo (ej: me funciona, me sirve, no es lo que esperaba, me gustaría cambiar esto, etc) o bien, indirecto (detectar lenguaje corporal, el comportamiento que el cliente tiene al interactuar con el producto). Debemos notar irregularidades para mejorar y transmitir mejor el mensaje del producto.
+
+Esta adaptación ocurre en la siguiente sprint Planning. Debemos planear que vamos a hacer de cara al siguiente sprint para mejorar nuestro incremento de producto.
+
+## Servicio del Scrum Master al Product Owner
+* Ayuda a encontrar tecnicas para definir objetivos del producto
+* Ayuda a establecer una planificacion empirica (estimacion) de producto para un entorno complejo
+* Ayuda a comprender la necesidad de tener un product backlog claro y conciso
+* Facilita la colaboracion de los interesados
+
+### Product vision board:es una plantilla (canvas) con unas preguntas por cada sección, la idea es responder a cada pregunta en función del producto. 
+
+## Servicios al scrum team
+* **Guia** al equipo en la autogestion y multifuncionalidad
+* Ayuda a **enfocarse en la entrega de alto valor** que cumpla la definicion de terminado
+* Procura **eliminar impedimentos** para el progreso del equipo
+* **Asegura** que todos los eventos se lleven a cabo y sean productivos
+
+## Servicios a la Organizacion
+* Planificar y asesorar implementaciones se Dcrum dentro de la organizacion.
+* Ayudar a los empleados y los interesados a comprender y aplicar un enfoque empirico para el trabajo complejo
+* Eliminar las barreras entre los interesados y los scrum teams
+
+## Lean Change Management 
+* Ciclo del cambio
+* Opciones - experimentos (experimentos-preparar-introducir-revisar) - hallazgos
+
+## Facilitacion de Spring Plannnig
+* **1. Actividad de Check-in:** Permite roper el hielo con el equipo para que esten concentrados , no mas de 5 min.
+* **2. Acordar el objetivo del Sprint:** Que el Product Owner explique el objetivo del sprint
+* **3. Presentación de las prioridades:** El Product Owner presenta la lista de prioridades que se van a atacar de mayor valor a menor valor
+* **4. Definir compromisos del Sprint:** El developer team definen los compromisos que van a asumir en el sprint. El compromiso va de los que genera mas valor en lugar de los mas facil de desarrollar
+* **5. Refinar prioridades y estimar:** Refinamiento del backlog
+* **6. Conversación estratégica:** El developer team acuerdan de que forman van a trabajar las actividades que acaban de comprometer, esto deriva en el sprint backlog
+* **7. Feedback y cierre:** Cerrar la reunion teniendo en cuenta que pueden mejorar para el siguiente sprint planning
+
+
