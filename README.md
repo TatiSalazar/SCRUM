@@ -162,4 +162,57 @@ Esta adaptación ocurre en la siguiente sprint Planning. Debemos planear que vam
 * **6. Conversación estratégica:** El developer team acuerdan de que forman van a trabajar las actividades que acaban de comprometer, esto deriva en el sprint backlog
 * **7. Feedback y cierre:** Cerrar la reunion teniendo en cuenta que pueden mejorar para el siguiente sprint planning
 
+## Facilitacion del Daily Scrum
+* El proposito es inspeccionar el progreso hacia el objetivo del sprint y adaptar el spring backlog segun sea necesario, ajustando el trabajo planificado entrante
+* Es diario, max 15 minutos
+* ¿Qué hice ayer?
+* ¿Qué voy a hacer hoy?
+* ¿Qué impedimentos he tenido?
+* ¿Qué informacion necesitan conocer mis compañeros de equipo?
+* **Evento** Diario, max 15 min
+* **Liderazgo** Esta conversación debe ser liderada por los developers
+* **Foco** centrada en el progreso para un plan viable del siguiente daily
+* **A discutir** Que hice, en que estoy trabajando?
 
+## Estructura de una buena Sprint Review
+* 🧩 Actividad de Check-in
+* 🎯 Presentar el objetivo del Sprint
+* 📋 Presentar los compromisos del Sprint
+* 🤖 Demostración del Incremento
+* 🧐 Recibimos feedback del incremento
+* 🗯️ Discutimos nuevas iniciativas
+* 🤝 Feedback y cierre.
+
+## Estructura de un buen Sprint Retrospective
+* ☑️ Preparar el escenario
+* 📊 Recolectar y preparar datos (identificar los problemas a resolver)
+* 🔍 Indagar (identificar las causas raíz)
+* 🤔 Decidir qué hacer (con las oportunidades de mejora)
+🤝Cerrar la retrospectiva
+* Herramientas : mural.com miro.com timboretro.com
+
+## Antipatrones Scrum
+* Si no existe Transparencia, Inspección o Adaptación estamos en un Antipatron, a nivel de los modelos adaptativos de control: Producto, proceso, progreso. Permitiendo evaluar la salud de la implementacion del equipo scrum
+
+## Preguntas Frecuentes
+1. No tenemos Scrum Master, ¿Cualquiera puede serlo?
+R. Segun la guia de scrum, cualquiera puede ocupar esta responsabilidad solo hay que tener en consideracion que cuente con las habilidades de facilitador.
+
+2. ¿El Scrum Master puede desarrollar o tomar tareas del Sprint?
+R. No ya que puede comprometer el sprint
+
+3. ¿El Scrum Master y Product Owner pueden ser la misma persona?
+R. Segun la guia de scrum SI, sin embargo no puedes cubrir ambas responsabilidades al mismo tiempo ya que se puede perder la armonia y equilibrio del equipo.
+
+4. ¿El Sprint puede tener diferentes duraciones?
+R. No es recomendable, puede generar indisciplina en el Developer Team, modificar las estadísticas del Srpint.
+
+5. ¿Qué hacer si surgen nuevas prioridades dentro del Sprint?
+R. Si se pueden agregar nuevas prioridades pero no se debe de comprometer al sprint. Este tipo de comportamientos nos estan mandando Alertas sobre planning del sprint (Scrum Master / Podruct Owner).
+
+## El camino del Scrum Master
+* Facilitador de equipos agiles
+* Agile Coach
+* Entrenador
+* Consultor
+* Lider agil
