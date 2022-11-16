@@ -124,6 +124,11 @@ Equipos de trabajo mas pequeños con un tiempo de desarrollo corto, ejemplo, 2 s
 * Increment - Compromiso: Definición de Terminado⁣ - Se hace transparente lo que se hizo en el spring
 
 ### 3 pilares que nos permiten avanzar en el modelo adaptatios de control MAC
+
+Sprint Backlog: Transparencia,
+Definitions of Done: Transparencia,
+Sprint Retrospectiva: !important
+
 * **Transparencia** : *product backlog-incremento* El product backlog debe ser transparente para todos. 
 * **Inspeccion** : *sprint review* La Sprint Review no se debe presentar con diapositivas, se debe inspeccionar el incremento del producto, el cliente debe interactuar con el producto que se ha llegado a construir en el sprint.
 * **Adaptacion** : *sprint planning* Cuando el cliente interactua con el producto nos puede dar un feedback directo (ej: me funciona, me sirve, no es lo que esperaba, me gustaría cambiar esto, etc) o bien, indirecto (detectar lenguaje corporal, el comportamiento que el cliente tiene al interactuar con el producto). Debemos notar irregularidades para mejorar y transmitir mejor el mensaje del producto.
