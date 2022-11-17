@@ -196,6 +196,118 @@ Esta adaptación ocurre en la siguiente sprint Planning. Debemos planear que vam
 🤝Cerrar la retrospectiva
 * Herramientas : mural.com miro.com timboretro.com
 
+## Product Backlog - Lista de Product
+* Es la lista ordenada de todo lo que se requiere implementar en el producto y es la única fuente de requisitos para cualquier cambio o mejora a realizarse sobre el producto. 
+* Se compone de **HISTORIAS DE USUARIO** que deben poderse completar en 1 sprint, sin embargo, si una funcionalidad o requisito es demasiado extenso se puede crear una **ÉPICA** las cuales son actividades que requieren más de 1 sprint para su culminación. De está manera 1 Épica se compone de varias historias de usuario
+
+## Historia Usuario
+* Las historias de usuarios son los elementos más específicos de la lista de producto, no se tienen que confundir con los requerimientos si no que es la funcionalidad que el usuario quiere realizar.
+* Se pueden usar sistemas digitales para manejar las historias de usuario como lo puede ser **Jira**.
+* Título
+* Descripción
+* Puntos
+* Criterio de aceptación
+* Ejemplo de una historia de desarrollo:
+* ✅ Funcionalidad (criterios de aceptación)
+* ✅ Código subido en git
+* ✅ Pruebas creadas
+* ✅ Documentación
+*  técnica llamada las tres C’s
+* Cards. Son las tarjetas creadas con los componentes o información de cada historia.
+* Conversation. Es la conversación del equipo acerca de esta historia y que todos entienden el proceso que tendrá.
+* Confirmation. Todas las personas confirman que entienden la historia.
+* inviertes en historias porque estas deben de ser:
+* I - Independiente
+* N - Negociable
+* V - Valiosa
+* E - Estimable
+* S - Small (pequeña)
+* T - Testeable (Comprobable)
+
+## Estimar Historias de Usuario
+* Para poder estimar historias de usuario tenemos que tener en cuenta:
+* La complejidad de la historia, funcionalidad de la actividad
+* Cantidad de trabajo requerido, tamaño de la actividad
+* Conocimientos necesarios, aprendizaje para realizar la actividad
+* Incertidumbre, factores externos que no controlamos
+* **Planning Poker** esta herramienta nos va a servir para estimar las historias de usuarios.
+* **Escala:** se utiliza Fibonacci modificado (1, 2, 3, 5, 8, 13, 20, 40. infinito, y ?)
+* **Velocidad del equipo:** total de puntos de las HU completadas por el equipo durante un sprint.
+
+## Sprint backlog
+* Es un subconjunto de la Lista de Producto (Product backlog) y contiene todos los elementos que serán desarrollados durante el Sprint.
+* De estos elementos dependerá el incremento a desarrollar y los objetivos del Sprint.
+* Debe tener suficiente detalle para que todo el equipo sea capaz de comprenderlo en los daily stand-ups (Scrum diario)
+* Solo el equipo de desarrollo puede aceptar que se agreguen elementos al Sprint Backlog.
+* Si un elemento se vuelve innecesario a mitad de un sprint se puede sacar de la lista de pendientes.
+
+## 3 gráficas para medir las Historias de Usuario
+* **Gráfica de trabajo pendiente o Bourn Down Chart**
+* Este tipo de gráfica está enfocada en el sprint y **hace visible el trabajo pendiente durante del desarrollo de un proyecto**. Además, permite identificar la velocidad con la cual se están alcanzando los objetivos propuestos y si el equipo puede cumplir con el total de las actividades estimadas.
+* **Gráfica de flujo acumulado** En esta gráfica no se refleja el día a día del Sprint, sino que incluye el histórico de los Sprints anteriores.
+
+* **Bourn Up Chart**
+* Esta gráfica permite ver el trabajo que se ha **completado durante el Sprint**. Se marca una línea adicional (de color amarillo) la cual representa el ideal de puntos que se deben completar o el objetivo al que se quiere llegar.
+
+## Definicion de terminado
+* Push de commits sobre branch, haciendo referencia al número de issue trabajado.
+* Aprobación del pull request de al menos 2 miembros del equipo de desarrollo.
+* Agregar sobre el issue trabajado evidencias del éxito de pruebas de funcionalidad y de integración
+* Documentar la funcionalidad liberada en el repositorio compartido al cliente .
+* Actualizar apps y/o hacer deploy, notificar al cliente e indicar si es necesario realizar algún tipo de actualización.
+
+## Sprint
+* El sprint es un periodo determinado, normalmente dura de 1 a 4 semanas y siempre sera el mismo periodo.
+* Es un periodo de tiempo determinado en que se crea un incremento de producto
+* ritmo del sprint
+* Planeación del sprint, que se va a trabajar
+* Scrum diario, reunión para discutir el progreso
+* Trabajo de desarrollo, que va ocurriendo todos los días
+* Revisión del sprint, aquí vemos si se cumplen o no los objetivos
+* Retrospectiva del sprint, que se puede mejorar
+
+## Sprint Planning
+* No debe de durar mas de 8 horas (Sprint de 4 semanas)
+* El scrum master se encarga de organizar la ceremonia
+* ¿Qué puede entregarse al final del Sprint?
+* ¿Cómo se logrará hacer ese trabajo? 
+* ¿Qué puede entregarse al final del sprint?
+* Se toman las HU más prioritarias de la lista de producto.
+* Se discute también el objetivo a lograr en el sprint.
+* Saber la capacidad del equipo y la velocidad de la última iteración.
+* El proceso de planeacion :  Elementos, Estimacion, Capacidad, objetivos
+
+## Daily Stand-Up
+* Reunion diaria no mas de 15 min
+* Se utiliza para planear las proximas 24 horas de trabajo
+* El scrum ayuda a programar el daily
+* Mide el progreso
+
+## Refinando Historias
+* Se recomienda tener al menos una sesion para refinar historias durante el sprint y a a mitad del sprint
+* El objetivo es detectar dudas o impedimentos para el proximo sprint
+* Participa todos los miembros del equipo y el Product Owner debe de estar presente
+
+## Sprint Review 
+* Ocurre siempre al final del sprint, en ella se demuestran los avances de iteracion y el producto final que se construyó
+* Reunion informal y abierta al dialogo
+* No es una reunion de seguimiento
+
+## Retrospectiva del Sprint
+* Puede durar 15 min a 30 min
+* Positiva y productiva
+* No es una reunion para buscar culpas
+* No debe de durar mas de 3 horas para un sprint de 1 mes
+* Participa de todo el equipo de scrum
+* Qué hicimos bien?
+* Que no hicimos tan bien?
+* Qué podemos mejorar?
+* Buscar un plan para mejorar
+
+## Escalabilidad en el SCRUM
+* Para lograr la escalabilidad de equipos existe un esquema conocido como Scrum de Scrums, el cual está compuesto por representantes encargados de coordinar los esfuerzos y elementos de trabajo de los diferentes equipos de Scrum.
+
+
 ## Antipatrones Scrum
 * Si no existe Transparencia, Inspección o Adaptación estamos en un Antipatron, a nivel de los modelos adaptativos de control: Producto, proceso, progreso. Permitiendo evaluar la salud de la implementacion del equipo scrum
 
